@@ -69,10 +69,6 @@ NED University — IEEE PES NEDUET Electrovision 2026
 </p>
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
-</p>
-
 <h2 align="center"> 🚀 Top Projects </h2>
 
 | Project | Description | Tech Stack | Link |
@@ -88,12 +84,19 @@ NED University — IEEE PES NEDUET Electrovision 2026
 
 <h2 align="center">📊 GitHub Stats</h2>
 
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-noumanfazil&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=C9D1D9&icon_color=00BFFF" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=m-noumanfazil&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=C9D1D9&icon_color=00BFFF" />
 </p>
 
+<!-- Streak Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=m-noumanfazil&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=C9D1D9&dates=C9D1D9" />
+  <img src="https://streak-stats.demolab.com/?user=m-noumanfazil&theme=dark&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=C9D1D9&dates=C9D1D9&stroke=0D1117" />
+</p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=m-noumanfazil&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=C9D1D9&icon_color=00BFFF" />
 </p>
 
 <p align="center">
