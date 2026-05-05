@@ -1,18 +1,45 @@
-# 💫 About Me:
-🔭 I'm currently building AI-powered apps using LangChain, RAG pipelines & agentic systems<br>🌱 I'm currently learning React, CSS, LLMs, embeddings & modern frontend tools<br>👯 I'm looking to collaborate on AI, automation, and open source projects<br>💬 Ask me about LangChain, RAG, n8n automation, Python or frontend dev<br>🏆 NASA Space Apps Challenge 2025 — 2nd Runner Up 🚀<br>🥇 Winner — NED Hack Fusion local coding contest<br>🌍 ICPC Regional Round 2025-26 — Qualified among top 104 teams across Pakistan<br>📍 Based in Karachi, Pakistan
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500"/>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nouman-fazil-a91478327/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nouman.ned123@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=m-noumanfazil&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=m-noumanfazil&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=m-noumanfazil&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h2 align="center">👩‍💻 About Me</h2>
 
 ---
-[![](https://komarev.com/ghpvc/?username=m-noumanfazil&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I am **Muhammad Nouman Fazil**, a Computer Science & Information Technology (CSIT) sophomore at NED University focused on building AI-driven systems and solving real-world problems through software engineering.
+
+My work revolves around **AI automation, LLM-powered applications, and system design**, using tools like n8n, LangChain, and FastAPI to build practical, scalable solutions.
+
+I also enjoy competitive programming and developing efficient algorithms that strengthen my problem-solving foundation.
+
+
+- 🌌 **NASA Space Apps Challenge 2025**  
+2nd Runner-Up — Karachi Division
+
+- 🏆 **Competitive Programmer**  
+Ranked Top 104 nationally in ICPC Asia Topi Regional Contest (2025)
+
+
+- ⚡ **Hack Fusion Winner**  
+NED University — IEEE PES NEDUET Electrovision 2026
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500"/>
+</p>
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" align="left"/>
+
+<h2>👩‍💻 Skills</h2>
+
+
+
+
+
+
+
+
+
+
+
+
