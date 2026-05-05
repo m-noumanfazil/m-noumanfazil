@@ -1,105 +1,18 @@
-<!-- Header -->
-<div align="center">
+# 💫 About Me:
+🔭 I'm currently building AI-powered apps using LangChain, RAG pipelines & agentic systems<br>🌱 I'm currently learning React, CSS, LLMs, embeddings & modern frontend tools<br>👯 I'm looking to collaborate on AI, automation, and open source projects<br>💬 Ask me about LangChain, RAG, n8n automation, Python or frontend dev<br>🏆 NASA Space Apps Challenge 2025 — 2nd Runner Up 🚀<br>🥇 Winner — NED Hack Fusion local coding contest<br>🌍 ICPC Regional Round 2025-26 — Qualified among top 104 teams across Pakistan<br>📍 Based in Karachi, Pakistan
 
-```
-███╗   ██╗ ██████╗ ██╗   ██╗███╗   ███╗ █████╗ ███╗   ██╗
-████╗  ██║██╔═══██╗██║   ██║████╗ ████║██╔══██╗████╗  ██║
-██╔██╗ ██║██║   ██║██║   ██║██╔████╔██║███████║██╔██╗ ██║
-██║╚██╗██║██║   ██║██║   ██║██║╚██╔╝██║██╔══██║██║╚██╗██║
-██║ ╚████║╚██████╔╝╚██████╔╝██║ ╚═╝ ██║██║  ██║██║ ╚████║
-╚═╝  ╚═══╝ ╚═════╝  ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nouman-fazil-a91478327/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nouman.ned123@gmail.com) 
 
-### CS Student @ NEDUET · AI Engineer · Automation Architect
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
-*Building things that think, automate, and occasionally work on the first try.*
-
-[![GitHub followers](https://img.shields.io/github/followers/m-noumanfazil?style=flat-square&color=black&labelColor=black&logo=github)](https://github.com/m-noumanfazil)
-![Profile Views](https://komarev.com/ghpvc/?username=m-noumanfazil&style=flat-square&color=black)
-[![Open for Internships](https://img.shields.io/badge/Open%20for-Internships-brightgreen?style=flat-square)](mailto:your@email.com)
-
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=m-noumanfazil&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=m-noumanfazil&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=m-noumanfazil&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=m-noumanfazil&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## ⚡ What I Actually Do
-
-```python
-nouman = {
-    "currently"   : "CS @ NEDUET, Karachi",
-    "building"    : ["AI Agents", "n8n Automations", "RAG Pipelines"],
-    "obsessed_with": ["LangChain", "LangGraph", "making things autonomous"],
-    "open_to"     : ["Internships", "Collabs", "Interesting Problems"],
-}
-```
-
----
-
-## 🛠️ Tech Stack
-
-**AI & Agents**
-
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-000000?style=flat-square)
-![Groq](https://img.shields.io/badge/Groq-000000?style=flat-square)
-![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase)
-
-**Automation**
-
-![n8n](https://img.shields.io/badge/n8n-000000?style=flat-square&logo=n8n)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi)
-![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=flat-square&logo=streamlit)
-
-**Systems**
-
-![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus)
-![Qt](https://img.shields.io/badge/Qt-000000?style=flat-square&logo=qt)
-![Raylib](https://img.shields.io/badge/Raylib-000000?style=flat-square)
-
----
-
-## 🚀 Projects Worth Looking At
-
-| Project | What it does | Stack |
-|--------|-------------|-------|
-| [**StudyMate**](https://github.com/m-noumanfazil/StudyMate) | AI study buddy — throw PDFs at it, ask questions | Python · LangChain · Groq |
-| [**Cricket RAG CLI**](https://github.com/m-noumanfazil/cricket-rag-cli-using-langchain) | RAG pipeline that actually knows cricket | Python · LangChain · ChromaDB |
-| [**StudyMate CLI**](https://github.com/m-noumanfazil/StudyMate-CLI) | PDF sessions + semantic search in your terminal | Python · ChromaDB · Groq |
-| [**Client Onboarding System**](https://github.com/m-noumanfazil/Client-Onboarding-System-using-n8n) | Full client automation — forms, Airtable, invoices | n8n · Airtable |
-| [**Retro Cricket Game**](https://github.com/m-noumanfazil/Retro-Cricket-The-Game) | Built a cricket game in C. Yes, in C. | C · Raylib |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Nouman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-noumanfazil&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-noumanfazil&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff)
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-Currently open to **internship opportunities** in AI, automation, or backend development.
-
-If you have an interesting problem that needs an AI solution or a workflow that needs automating — let's talk.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail)](mailto:your@email.com)
-
-</div>
-
----
-
-<div align="center">
-<sub>Built something broken today. Will fix it tomorrow. Probably.</sub>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
