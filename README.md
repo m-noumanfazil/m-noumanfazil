@@ -23,7 +23,7 @@ Ranked Top 104 nationally in ICPC Asia Topi Regional Contest (2025)
 - ⚡ **Hack Fusion Winner**  
 NED University — IEEE PES NEDUET Electrovision 2026
 
-- **🌟 STEM Talent Search Programme 2025-26 finalist**
+- 🌟 **STEM Talent Search Programme 2025-26 finalist**
 Our project placed among the top 34 out of 500+ entries.
 
   
